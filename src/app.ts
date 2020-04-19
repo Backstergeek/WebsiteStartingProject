@@ -1,1 +1,3 @@
-// Code goes here!
+import { Component } from "../src/Classes/component";
+
+new Component();
